@@ -1,0 +1,10 @@
+  feature-one[m
+  main[m
+  origin/test[m
+* [32mtest[m
+  tt[m
+  [31mremotes/origin/HEAD[m -> origin/main
+  [31mremotes/origin/feature-one[m
+  [31mremotes/origin/main[m
+  [31mremotes/origin/ntt[m
+  [31mremotes/origin/test[m
